@@ -68,7 +68,7 @@ git clone https://github.com/abhisehk021/E-Commerce-WebApp
 cd e-commerce-web-app
 1- npm install
 2- npm run dev
-3- for build run this npm run build
+3- npm run build
 
 
 
